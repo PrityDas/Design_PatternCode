@@ -9,7 +9,6 @@ package AdapterPattern;
  * @author HP
  */
 public class MP4Player implements AdvancedMediaPlayer{
-
     @Override
     public void playVlc(String fileName) {
        
